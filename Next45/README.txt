@@ -8,10 +8,10 @@ Output of my program:
 ==Rover Program started==
 Enter space coordinates (x y): 88
 Enter the Rover's start coordinates (x y): 12
-Enter cardinal point the Rover's facing (E, W, N, S): E
-Enter list of commands (MRL): MMML
+Enter cardinal point the Rover's facing (E, W, N, S): e
+Enter list of commands (MRL): MMLMRMMRRMML
 
-Position of the Rover is :4 2 N
+Position of the Rover is :3 3 S
 
 5. For the correctness of my program I first drew the 2D board/zone (8X8) in a piece of paper to see what the Rover's move should look like before transfering it into code.
 6. I tested the program with different data and by validating the inputs of the user.
